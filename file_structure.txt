@@ -1,0 +1,20 @@
+.
+├── Dockerfile
+├── app.py
+├── entrypoint.sh
+├── file_structure.txt
+├── logs
+├── models
+│   └── knn_model.pkl
+├── requirements.txt
+├── scripts
+│   ├── data_preprocess.py
+│   ├── predict_from_image.py
+│   └── train_knn.py
+├── static
+│   └── js
+│       └── main.js
+└── templates
+    └── index.html
+
+7 directories, 11 files

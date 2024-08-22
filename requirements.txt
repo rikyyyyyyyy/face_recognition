@@ -1,0 +1,7 @@
+Flask==2.0.1
+Werkzeug==2.0.3  # 互換性のあるバージョンを指定
+opencv-python
+scikit-learn==0.24.2
+face_recognition
+albumentations
+azure-storage-blob
